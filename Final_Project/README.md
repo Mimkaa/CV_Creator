@@ -17,15 +17,15 @@ npm start
 ```
 ## Functional
     1. First of all the user can registe or login 
-![This is a alt text.](Final_Project/instances/ins1.png "This is a sample image.")
+![This is a alt text.](instances/ins1.png "This is a sample image.")
 
     2.  Then on the next page a user can create a new cvs (as many as he or she wants), logout, and change a password
     to change it the user will recieve a link on the email and then following it will be redirected to password changing form, by clicking a cv name a user will be redirected to the page of cv details
-![This is a alt text.](Final_Project/instances/ins2.png "This is a sample image.")
+![This is a alt text.](instances/ins2.png "This is a sample image.")
     
     3. On this page users can add some information about them, and save it then as a pdf
     
-![This is a alt text.](Final_Project/instances/ins3.png "This is a sample image.")
+![This is a alt text.](instances/ins3.png "This is a sample image.")
     
     4. in order for it to work the environmental variables have to be provided:
     
