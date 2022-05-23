@@ -1,0 +1,7 @@
+sudo netstat -ltnp
+sudo lsof -i:8000
+
+kill -9 PID
+sudo chmod -R 755 filename - changes permission for all files in a dir
+sudo chown -R $USER filename - gives ownreship to a current user
+
